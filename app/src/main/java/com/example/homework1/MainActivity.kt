@@ -34,7 +34,7 @@ class MainActivity : ComponentActivity() {
  * Himal Shrestha
  * Mobile Application Development
  * Alrajab
- * Homework 1.
+ * Homework 1. update
  */
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
